@@ -251,7 +251,7 @@ main {
 }
 
 	.myDIV:hover + .hide p {
-		text-align: left;
+		text-align: center;
 		font-size: 0.4em;
 		font-style: italic;
 	}
